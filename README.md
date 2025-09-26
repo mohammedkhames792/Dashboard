@@ -1,19 +1,21 @@
-# Simple Dashboard
-A responsive dashboard built with HTML & CSS.
+# 📊 Dashboard Project
+
+Responsive dashboard built with **HTML & CSS**.
 
 ## 🔗 Live Demo
-(https://dashboard-swart-nu-50.vercel.app/)
+[View on Vercel](https://dashboard-swart-nu-50.vercel.app/)
 
 ## 📂 Repository
-(https://github.com/mohammedkhames792/Dashboard)
-## ✨ Features
-- Responsive layout (mobile & desktop)
-- Sidebar & navbar for easy navigation
-- KPI cards and tables for data visualization
-- Clean modern CSS with light/dark theme
+[GitHub Repo](https://github.com/mohammedkhames792/Dashboard)
 
-## 🛠️ Technologies Used
-- HTML5
+## ✨ Features
+- Responsive layout  
+- Sidebar & navbar  
+- KPI cards & tables  
+- Light/dark theme  
+
+## 🛠️ Tech Stack
+- HTML5  
 - CSS3
 
 
